@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843384519512",
+    "project_id": "shahub-8a09d",
+    "storage_bucket": "shahub-8a09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843384519512:android:3d36c41e1335f2ce5cc32d",
+        "android_client_info": {
+          "package_name": "com.example.rcc_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843384519512-dv91trf4lj452d1jd3fpgv0e81i3i6r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDusq8dGb8iC-hSyJbwbx8KCKeawoMhdws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843384519512-dv91trf4lj452d1jd3fpgv0e81i3i6r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
